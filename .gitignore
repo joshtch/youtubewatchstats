@@ -3,9 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+__pycache__/
 
 # Other files and folders
 .settings/
+.venv/
+venv/
 
 #ignore logs
 *.log
